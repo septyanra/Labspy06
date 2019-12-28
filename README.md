@@ -33,5 +33,9 @@
         
    - Jika menu Search dan Quit dijalankan
         ![2019-12-29 (8)](https://user-images.githubusercontent.com/57028466/71550061-80f00d80-29fa-11ea-852b-cc75ea44dc13.png)
+        
+        
+        
+ ***Thanks for Watching***
 
 
